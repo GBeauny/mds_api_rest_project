@@ -20,6 +20,9 @@ Packages used in this project:
 - jsonwebtoken
 - mongoose
 - multer
+
+> devDependencies
+
 - nodemon
 
 *Frontend:*
