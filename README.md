@@ -24,7 +24,10 @@ Packages used in this project:
 
 *Frontend:*
 
-JSON package will be given
+- react
+- react-dom
+- react-router-dom
+- react-scripts
 
 Description:
 
