@@ -28,4 +28,8 @@ JSON package will be given
 
 Description:
 
-
+> Planning a REST API
+> CRUD Operations & Endpoints
+> Validation send to DataBase
+> Image Upload
+> Authentication
