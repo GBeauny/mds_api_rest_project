@@ -13,6 +13,8 @@ Packages used in this project:
 
 *Backend API restful:*
 
+> dependencies
+
 - bcryptjs
 - body-parser
 - express
@@ -26,6 +28,8 @@ Packages used in this project:
 - nodemon
 
 *Frontend:*
+
+> dependencies
 
 - react
 - react-dom
