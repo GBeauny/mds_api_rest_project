@@ -11,7 +11,7 @@ You will have to develop the backend rest API and the frontend  part of this app
 
 Packages used in this project:
 
-Backend API restful:
+*Backend API restful:*
 
 - bcryptjs
 - body-parser
@@ -22,7 +22,7 @@ Backend API restful:
 - multer
 - nodemon
 
-Frontend:
+*Frontend:*
 
 JSON package will be given
 
