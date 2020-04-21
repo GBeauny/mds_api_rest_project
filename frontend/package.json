@@ -1,5 +1,5 @@
 {
-  "name": "mds_ws_project",
+  "name": "mds_ws_project_frontend",
   "version": "0.1.0",
   "dependencies": {
     "react": "^16.5.2",
