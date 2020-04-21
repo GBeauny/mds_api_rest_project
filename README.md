@@ -55,7 +55,7 @@ Packages used in this project:
 }
 ```
 
-Description:
+- Description:
 
 > Planning a REST API
 
@@ -66,3 +66,43 @@ Description:
 > Image Upload
 
 > Authentication
+
+- Building the project:
+
+> Récupérer la liste des posts / articles
+
+> Ajouter un create Post endpoint
+
+> Ajouter une validation du coté du serveur
+
+> Mettre en place un modèle du post / l'article
+
+> Enregistrer le post dans la base de données
+
+> Gerer les erreurs / les images statiques
+
+> Récupérer un seule post / article
+
+> Uploader des images
+
+> Mettre à des posts / articles
+
+> Supprimer des posts / articles
+
+> Ajouter une pagination
+
+> Ajouter un modele user
+
+> Ajouter un user signup validation
+
+> Signing user / Create user Login / Creating JWT (JSON Web Tokens)
+
+> Utiliser et valider le token
+
+> Ajouter l'authentification a toutes les routes en tant que middleware
+
+> Connecter les utilisateurs et les posts
+
+> Ajouter la verification des authorizations
+
+> Nettoyer les relations posts-users
